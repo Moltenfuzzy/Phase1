@@ -7,7 +7,7 @@ CS152 Project Phase 1 - Lexical Analyzer Generation Using flex
 
 ## Tools preparation
 
-Make sure you have a Linux environment for this project. You can use 'bolt', your own Linux machine, or Windows Subsystem for Linux(WSL). I highly recommend you directly use 'bolt' since it contains all the necessary tools preinstalled. 
+Make sure you have a Linux environment for this project. You can use 'bolt', your own Linux machine, or Windows Subsystem for Linux(WSL). We highly recommend you directly use 'bolt' since it contains all the necessary tools preinstalled. 
 
 ```sh
 ssh <your-net-id>@bolt.cs.ucr.edu
@@ -31,7 +31,7 @@ Use 'git' to clone the project template and build it by typing 'make'
 
 ## Use the template
 
-You can chance any files and add additional C files, but please make sure all files are linked to the final executable file in Makefile. Please don't change the name of 'Makefile' and 'miniL.lex'. After typing make, An executable file 'miniL' is expected to be created as your phase1 lexer.
+You can change any files and add additional C files, but please make sure all files are linked to the final executable file in Makefile. Please don't change the name of 'Makefile' and 'miniL.lex'. After typing make, An executable file 'miniL' is expected to be created as your phase1 lexer.
 
 
 
